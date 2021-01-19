@@ -1,2 +1,6 @@
 # AWS-Cloud-1
-Introduction to hosting a website on AWS.
+Introduction to Cloud Hosting.
+
+![Cloud Hosting](/Cloud Infrastructure.png)
+
+
