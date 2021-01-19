@@ -1,6 +1,6 @@
 # AWS-Cloud-1
 Introduction to Cloud Hosting.
 
-![Cloud Hosting](/Cloud Infrastructure.png)
+![Cloud Hosting](/Cloud_Infrastructure.png)
 
 
